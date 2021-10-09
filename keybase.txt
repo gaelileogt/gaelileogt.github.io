@@ -1,0 +1,58 @@
+<meta name="robots" content="noindex">
+
+==================================================================
+https://keybase.io/kyb3rvizsla
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bio.kyb3rvizsla.com
+  * I am kyb3rvizsla (https://keybase.io/kyb3rvizsla) on keybase.
+  * I have a public key ASDb2i2m1dOBBoO9X4J_pOFFy5B-VUlDlekhU7otqpq_Ggo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203ad61a82dd4792004c623b44999fced0fe4d351dd3c9d77a0f21071014130d530a",
+      "host": "keybase.io",
+      "kid": "0120dbda2da6d5d3810683bd5f827fa4e145cb907e55494395e92153ba2daa9abf1a0a",
+      "uid": "f7a28a111a7972a9a0c98d5c9ae41d19",
+      "username": "kyb3rvizsla"
+    },
+    "merkle_root": {
+      "ctime": 1633807873,
+      "hash": "236b1e7e414362fba09a5e0031eb91fc485b36f07790f6378848a2cb16f2002e39fddf415d9bf30d3d0974ef046a224d996c8e254ac54b704ed92004c6e54bb0",
+      "hash_meta": "966e3310909cf9b27bc31e737e83971f536749c0a0aececbc1598b806d0bfb6c",
+      "seqno": 20950603
+    },
+    "service": {
+      "entropy": "dc7Ckl6rYaomLuF+SJEollyb",
+      "hostname": "bio.kyb3rvizsla.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.1"
+  },
+  "ctime": 1633807889,
+  "expire_in": 504576000,
+  "prev": "e25d2df67f6fbaf2ae135b4efb8a43f5098061dd5fb92acc23c4dd1539c5a903",
+  "seqno": 110,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg29otptXTgQaDvV+Cf6ThRcuQflVJQ5XpIVO6LaqavxoKp3BheWxvYWTESpcCbsQg4l0t9n9vuvKuE1tO+4pD9QmAYd1fuSrMI8TdFTnFqQPEICw5+ZnHjsSPayveLFkHbTbOmP1fMZ2tjmt1RSuaWjrpAgHCo3NpZ8RAo4WR0Ci5q3LE3FpuXkV0sF5Zo1kSnX1bI1HG0UNwb5N75wcMtT8StiCX4X15M4PZfAgPsuxww44xmok9sfNlDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPUPeLLE0gvEIKMAtSLvtpqYAzGWLevMNT8scnbuwA7wo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kyb3rvizsla
+
+==================================================================
