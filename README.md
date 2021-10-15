@@ -1,3 +1,3 @@
 # Personal bio link
 
-Fork of [bio.link](https://bio.link)
+Fork of [carrd.co](https://carrd.co)
